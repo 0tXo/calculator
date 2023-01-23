@@ -8,7 +8,7 @@ let Result=()=>{
         result.value=eval(result.value)
     }
     catch(err){
-        alert("შეგეშალა ყლეოო");
+        alert("იიი დებილოოო");
     }
 }
 function clr(){
